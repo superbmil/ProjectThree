@@ -1,0 +1,35 @@
+#header {
+    background-image:url("homepage_beach.JPG");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 426px;
+    color:black;
+    padding:10px;
+}
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    width: 100%;
+    text-align:center;
+    float:top;
+    padding:5px;          
+}
+#sidebar {
+    width: 20%;
+    float: right;
+    background: white;
+    margin-right: 20px;
+}
+#section {
+    width:70%;
+    float:left;
+    padding:10px;
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;         
+}
